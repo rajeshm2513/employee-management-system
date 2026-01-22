@@ -129,7 +129,7 @@ You can add screenshots here:
 * Pie Chart
 * <img width="527" height="304" alt="image" src="https://github.com/user-attachments/assets/403b9924-daa8-4455-a889-ff136150cbf7" />
 
-==================================
+
 $$ 👨‍💻 Author
 **Rajesh Naik Mudavath**
 GitHub Profile: https://github.com/rajeshm2513  
